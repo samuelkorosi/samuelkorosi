@@ -6,7 +6,7 @@ Me chamo Samuel Korosi, sou Agile Coach e Desenvolvedor de Software com 16 anos 
 Certificado ScrumMaster (CSM) e Kanban System Design (KSD, antiga KMP-I), MBA em Gerenciamento de Projetos e Bacharel em Sistemas de Informação. <br>
 Apaixonado pela cultura ágil!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Korosi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelkorosi/)](https://www.linkedin.com/in/samuelkorosi/)
+[![IN](https://img.shields.io/badge/in-Samuel%20Korosi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelkorosi/)](https://www.linkedin.com/in/samuelkorosi/)
 
 ---
 ### Linguagens e Tecnologias
