@@ -10,6 +10,7 @@ Apaixonado pela cultura ágil!
 
 ---
 ### Linguagens e Tecnologias
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,dotnet,cs,azure,python)](https://skillicons.dev) -->
 
 <img 
     alt="HTML"
